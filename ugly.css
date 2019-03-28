@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(231, 231, 162); /*I call this color 'hummus'*/
+}
+
+h1 {
+    color: rgb(14, 99, 14);
+}
+
+.friends {
+    background-color: rgb(124, 212, 124);
+}
+
+h3 {
+    text-transform: uppercase;
+}
